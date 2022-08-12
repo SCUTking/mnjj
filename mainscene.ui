@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>mainscene</class>
+ <widget class="QWidget" name="mainscene">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>2000</width>
+    <height>1200</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>:/mnjj/windowicon1.png</normaloff>:/mnjj/windowicon1.png</iconset>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
